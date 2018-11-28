@@ -1,0 +1,110 @@
+<! DOCTYPE html>
+< html >
+< fej >
+  < meta  charset = " utf-8 " >
+  < meta  name = " viewport "  content = " szélesség = eszköz-szélesség " >
+  < title > Közepes cikk </ title >
+< style  id = " jsbin-css " >
+h1 , képkészlet {
+  font-család : " Lucida Grande " , " Lucida Sans Unicode " , " Lucida Sans " , Genf, Arial , sans-serif ;
+  text-align : center ;
+}
+ h1 {
+  szín : rgba ( 0 , 0 , 0 , .8 );
+  betűméret : 36 px ;
+}
+ figcaption {
+  betűméret : 11 px ;
+}
+ img {
+  magasság : automata ;
+  szélesség : 100 % ;
+}
+ ábra {
+  margin : 0 ;
+}
+ test {
+  margin : 0 ;
+}
+ cikk {
+  max-szélesség : 700 px ;
+  párnázottság : 10 px ;
+margin-left : automatikus ;
+  margin-right : automatikus ;
+  max-szélesség : 700 px ;
+  párnázottság : 10 px ;
+  
+}
+ p {
+  szín : rgba ( 0 , 0 , 0 , .8 );
+  font-family : Georgia , Cambria, " Times New Roman " , Times , serif ;
+  betűméret : 21 px ;
+  levél-távolság : -.003 em ;
+  vonalmagasság : 1,58 ;
+}
+ a {
+  szín : rgba ( 0 , 0 , 0 , .8 );
+}
+ a : ugorjon {
+  szín : rgba ( 153 , 153 , 153 , 1 );
+}
+</ style >
+</ head >
+< test >
+< h1 > Kérem, tanuljon kódot < h1 >
+< ábra >
+  < img  src = " https://orange.codeberryschool.com/content/images/project-assets/medium-article-cover.jpg "  rel = " kódoló " >
+  < figcaption > Tanulni kell kódolni egy szabad kódexet Toronto kávé-és-kódot. </ figcaption >
+</ figure >
+< cikk >
+  < p > Ma reggel felébresztettem több tucat üzenetet a diákoktól, akik elolvasták a "Kérjük ne tanuljanak kódot" című cikket. </ p >
+  < P > Először azt feltételezték < a  href = " http://blog.codinghorror.com/please-dont-learn-to-code/ "  cím = " Jeff Atwood " > Jeff Atwood 2012 cikket </ a > kellett spontán újra megjelent a Reddit-en. De nem - ez egy < a  href = " http://techcrunch.com/2016/05/10/please-dont-learn-to-code "  cím = " Tech crunch " > vadonatúj Tech Crunch cikket </ a> ugyanaz a név, amely visszhangozta Atwood azon állítását, hogy mindenki arra ösztönzi a programozást, hogy mindenki ösztönözze a vízvezeték szerzését. </ p >
+  < p > A programozás - a vízvezetékektől eltérően - egy olyan fontos képesség, amelyet mindenki meg kell tanulnia: < strong > a programozás az, ahogyan az emberek beszélnek a gépekkel. </ strong > </ p >
+</ article >
+   
+ < script  id = " jsbin-forrás-css "  type = " szöveg / css " > h1, figcaption {
+  font - család :  " Lucida Grande " , " Lucida Sans Unicode " , " Lucida Sans " , Genf, Arial, sans - serif;
+  szöveg - igazítás : központ;
+}
+ h1 {
+  szín :  rgba ( 0 , 0 , 0 , .8 );
+  font - size :  36px ;
+}
+ figcaption {
+  font - size :  11px ;
+}
+ img {
+  magasság : automata;
+  szélesség :  100 % ;
+}
+ ábra {
+  margin :  0 ;
+}
+ test {
+  margin :  0 ;
+}
+ cikk {
+  max - szélesség :  700px ;
+  párnázás :  10px ;
+margin - left : auto;
+  margó - jobb : auto;
+  max - szélesség :  700px ;
+  párnázás :  10px ;
+  
+}
+ p {
+  szín :  rgba ( 0 , 0 , 0 , .8 );
+  betűtípus - család : Georgia, Cambria, " Times New Roman " , Times, serif;
+  font - size :  21px ;
+  levél - távolság :  - . 003em ;
+  vonal - magasság :  1,58 ;
+}
+ a {
+  szín :  rgba ( 0 , 0 , 0 , .8 );
+}
+ a : ugorjon {
+  szín :  rgba ( 153 , 153 , 153 , 1 );
+}
+ </ script >
+</ body >
+</ html >
